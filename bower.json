@@ -1,0 +1,29 @@
+{
+  "name": "arpggio-token-component",
+  "version": "0.0.0",
+  "description": "Token",
+  "main": "dist/arpggio-token-component.min.js",
+  "homepage": "https://github.com/thehig/arpggio-token-component",
+  "authors": [
+    "David Higgins"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
